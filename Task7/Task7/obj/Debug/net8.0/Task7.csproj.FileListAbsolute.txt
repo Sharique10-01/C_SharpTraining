@@ -1,0 +1,14 @@
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\bin\Debug\net8.0\Task7.exe
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\bin\Debug\net8.0\Task7.deps.json
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\bin\Debug\net8.0\Task7.runtimeconfig.json
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\bin\Debug\net8.0\Task7.dll
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\bin\Debug\net8.0\Task7.pdb
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\obj\Debug\net8.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\obj\Debug\net8.0\Task7.AssemblyInfoInputs.cache
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\obj\Debug\net8.0\Task7.AssemblyInfo.cs
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\obj\Debug\net8.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\obj\Debug\net8.0\Task7.dll
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\obj\Debug\net8.0\refint\Task7.dll
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\obj\Debug\net8.0\Task7.pdb
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\obj\Debug\net8.0\Task7.genruntimeconfig.cache
+C:\Users\ShariqueKhan\source\repos\Task7\Task7\obj\Debug\net8.0\ref\Task7.dll
